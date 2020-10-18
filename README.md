@@ -1,2 +1,1 @@
-# C25
-CRUMPLED BALLS - 2
+# CP-2
